@@ -1,4 +1,4 @@
-# hello-world2
+# vue开发模板
 
 ## Project setup
 ```
